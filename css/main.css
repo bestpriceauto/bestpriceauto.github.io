@@ -44,3 +44,10 @@ body, html {
 .navbar-inverse .navbar-brand {
     color: white;
 }
+
+
+@media only screen and (max-width: 765px) {
+    .hero-image {
+    height: 75%;
+  }
+}
