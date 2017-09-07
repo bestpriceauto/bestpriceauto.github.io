@@ -26,7 +26,7 @@ body, html {
 
 
 .hero-image {
-  background-image: url("https://shop.tesla.com/content/dam/tesla/HeroCommerce.jpeg");
+  background-image: url("../img/tesla_family.jpeg");
   height: 100%;
   background-position: center;
   background-repeat: no-repeat;
